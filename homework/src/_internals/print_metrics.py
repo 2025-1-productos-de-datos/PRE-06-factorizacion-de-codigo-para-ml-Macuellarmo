@@ -1,4 +1,4 @@
-from homework.train_knn import estimator
+#from homework.train_knn import estimator
 
 
 def print_metrics(title, mse, mae, r2):
